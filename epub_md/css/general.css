@@ -2,6 +2,10 @@ body {
 	font-size: 0.8em;
 }
 
+p {
+    white-space: pre-line;
+}
+
 
 img {
     max-width: 100%;

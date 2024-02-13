@@ -1,0 +1,3 @@
+epub_md/*.md
+epub_md/description.json
+*.epub
